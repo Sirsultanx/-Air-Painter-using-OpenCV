@@ -1,0 +1,6 @@
+
+Python 3
+
+OpenCV: For video capture, color space conversion, contour detection, and drawing.
+
+NumPy: For efficient array manipulation (handling video frames).
