@@ -1,0 +1,12 @@
+
+Real-Time Drawing: See your lines appear instantly on the video feed.
+
+Color Tracking: Uses HSV color space to accurately isolate and track a specific color.
+
+Smooth Lines: Employs a deque (double-ended queue) to store a series of points, resulting in smooth, connected lines.
+
+Easy Controls:
+
+Press 'c' to clear the canvas and start over.
+
+Press 'q' to quit the application.
